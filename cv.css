@@ -1,0 +1,12 @@
+body {background-image: url("https://wallpaperaccess.com/full/809177.jpg");
+    background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  h1 {color: rgb(52, 6, 105);
+} 
+
+.INFO {background-color: rgba(255, 255, 0, 0.555);
+    color: black;
+    margin: 20px;
+    padding: 20px;}
